@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29311.281
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassSchedule", "ClassSchedule\ClassSchedule.csproj", "{DA376BB9-350D-433E-8BA4-E308E2707645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassScheduleTests", "ClassScheduleTests\ClassScheduleTests.csproj", "{924EA652-6792-4FEB-8C8F-03984E3844B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DA376BB9-350D-433E-8BA4-E308E2707645}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA376BB9-350D-433E-8BA4-E308E2707645}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA376BB9-350D-433E-8BA4-E308E2707645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{924EA652-6792-4FEB-8C8F-03984E3844B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924EA652-6792-4FEB-8C8F-03984E3844B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924EA652-6792-4FEB-8C8F-03984E3844B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924EA652-6792-4FEB-8C8F-03984E3844B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
